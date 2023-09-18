@@ -3,7 +3,7 @@ class A:
                     
     def __init__(self,count):
         self.count=5
-        self.count=count+1
+        self.count=self.count+1
 
 a=A()
 
